@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Allan 👋
 
-<!--
-**AllanWessels/AllanWessels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI engineer with 20+ years of end-to-end ownership across agentic systems, ML, and distributed data infrastructure. I design and ship production agentic architectures — MCP servers, multi-agent workflows, tool-augmented LLM systems, and RAG pipelines — that turn ambiguous business problems into measurable customer outcomes.
 
-Here are some ideas to get you started:
+Daily practitioner of agentic engineering: Claude Code as the development backbone, Claude Subagents and Agent Teams for parallelized work, MCP servers to give agents real access to real systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building lately
+
+🔌 **[NBA-MCP](https://github.com/AllanWessels/NBA-MCP)** — Production-style MCP server exposing ~28k NBA player-game rows to Claude Desktop, Cursor, and any MCP-compatible client. Python + FastMCP + asyncpg over Postgres, dual stdio and Streamable-HTTP transports. Demonstrates the "vending a database to AI agents safely" pattern: no `execute_sql`, every tool a specific parameterized intent.
+
+🛩️ **[anomaly-detection](https://github.com/AllanWessels/anomaly-detection)** — Unsupervised flight-data anomaly detection. 1D convolutional autoencoder in PyTorch with per-channel z-scored residuals for *explainable* scoring — you see not just *that* a flight was anomalous but *which sensors* drove it. FastAPI upload UI, scores in under a second on CPU.
+
+🎰 **[MAB](https://github.com/AllanWessels/MAB)** — Multi-armed bandit service in Go + gRPC + DynamoDB. UCB, ε-greedy, and ε-decay over a single Pull RPC, with per-experiment state isolation. The kind of adaptive A/B/n routing primitive most product teams end up needing.
+
+### Background
+
+Independent consultant since 2008, embedded across AI/ML, data engineering, backend, and industrial control for clients in trading, aerospace, sports analytics, and manufacturing. Operate as the entire engineering function across multiple parallel engagements — discovery, architecture, build, ship, adoption, DevOps.
+
+Earlier: Senior Manager of Technical Product Marketing & Partner Development at **Greenplum** (acquired by EMC) · Technical Product Manager at **Tellme Networks** (acquired by Microsoft) · Engagement Manager at **Amazon** · Lead PM / Technical Evangelist and Engineering Manager at **Microsoft**.
+
+### Stack I reach for
+
+**Languages:** Python · Scala · Java · C/C++ · SQL · Go
+**Agentic / LLM:** MCP (FastMCP) · Claude Agent API · Claude Subagents and Agent Teams · LangChain · structured outputs · grounded generation
+**ML:** PyTorch · TensorFlow/Keras · scikit-learn · autoencoders · Monte Carlo · multi-armed bandits
+**Backend:** FastAPI · Akka · gRPC · asyncpg · microservices
+**Data:** PostgreSQL · DynamoDB · MongoDB · HBase · Kafka · BigQuery · Polars · DuckDB · Qdrant
+**Cloud / Infra:** GCP · AWS · Docker · Kubernetes · Terraform
+
+### Get in touch
+
+📍 San Francisco Bay Area
+✉️ j.allan.wessels@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/allan-wessels-a1b147406/)
+
+Open to substantive conversations about hard AI/ML problems where someone has to own the work end-to-end.
