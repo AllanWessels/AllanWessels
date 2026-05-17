@@ -6,6 +6,8 @@ Daily practitioner of agentic engineering: Claude Code as the development backbo
 
 ### What I'm building lately
 
+🏎️ **[f1_RAG](https://github.com/AllanWessels/f1_RAG)** — F1 question-answering system with **four progressively more sophisticated retrieval architectures** (naive → hybrid → +rerank → +router) evaluated side-by-side on a 30-question, 6-bucket frozen eval harness. Hybrid BM25+dense over Qdrant, bge-reranker-v2-m3, Haiku 4.5 routing via tool-use across three retrievers (SQLite stats, Wikipedia narratives, FIA regulation PDFs), Sonnet 4.6 synthesis with structured citations and refusal detection. Self-hosted Langfuse tracing. Built using Claude Subagents in 6 parallel execution waves across 14 milestones — the agentic build process is itself part of the artifact.
+
 🔌 **[NBA-MCP](https://github.com/AllanWessels/NBA-MCP)** — Production-style MCP server exposing ~28k NBA player-game rows to Claude Desktop, Cursor, and any MCP-compatible client. Python + FastMCP + asyncpg over Postgres, dual stdio and Streamable-HTTP transports. Demonstrates the "vending a database to AI agents safely" pattern: no `execute_sql`, every tool a specific parameterized intent.
 
 🛩️ **[anomaly-detection](https://github.com/AllanWessels/anomaly-detection)** — Unsupervised flight-data anomaly detection. 1D convolutional autoencoder in PyTorch with per-channel z-scored residuals for *explainable* scoring — you see not just *that* a flight was anomalous but *which sensors* drove it. FastAPI upload UI, scores in under a second on CPU.
@@ -21,10 +23,15 @@ Earlier: Senior Manager of Technical Product Marketing & Partner Development at 
 ### Stack I reach for
 
 **Languages:** Python · Scala · Java · C/C++ · SQL · Go
+
 **Agentic / LLM:** MCP (FastMCP) · Claude Agent API · Claude Subagents and Agent Teams · LangChain · structured outputs · grounded generation
+
 **ML:** PyTorch · TensorFlow/Keras · scikit-learn · autoencoders · Monte Carlo · multi-armed bandits
+
 **Backend:** FastAPI · Akka · gRPC · asyncpg · microservices
+
 **Data:** PostgreSQL · DynamoDB · MongoDB · HBase · Kafka · BigQuery · Polars · DuckDB · Qdrant
+
 **Cloud / Infra:** GCP · AWS · Docker · Kubernetes · Terraform
 
 ### Get in touch
