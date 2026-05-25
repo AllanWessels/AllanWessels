@@ -16,7 +16,7 @@ Daily practitioner of agentic engineering: Claude Code as the development backbo
 
 ### Background
 
-Independent consultant since 2008, embedded across AI/ML, data engineering, backend, and industrial control for clients in trading, aerospace, sports analytics, and manufacturing. Operate as the entire engineering function across multiple parallel engagements — discovery, architecture, build, ship, adoption, DevOps.
+Currently an independent consultant, embedded across AI/ML, data engineering, fullstack, and industrial control for clients in trading, aerospace, sports analytics, and manufacturing. Operate as the entire engineering function across multiple parallel engagements — discovery, architecture, build, ship, adoption, DevOps.
 
 Earlier: Senior Manager of Technical Product Marketing & Partner Development at **Greenplum** (acquired by EMC) · Technical Product Manager at **Tellme Networks** (acquired by Microsoft) · Engagement Manager at **Amazon** · Lead PM / Technical Evangelist and Engineering Manager at **Microsoft**.
 
