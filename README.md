@@ -20,20 +20,6 @@ Independent consultant since 2008, embedded across AI/ML, data engineering, back
 
 Earlier: Senior Manager of Technical Product Marketing & Partner Development at **Greenplum** (acquired by EMC) · Technical Product Manager at **Tellme Networks** (acquired by Microsoft) · Engagement Manager at **Amazon** · Lead PM / Technical Evangelist and Engineering Manager at **Microsoft**.
 
-### Stack I reach for
-
-**Languages:** Python · Scala · Java · C/C++ · SQL · Go
-
-**Agentic / LLM:** MCP (FastMCP) · Claude Agent API · Claude Subagents and Agent Teams · LangChain · structured outputs · grounded generation
-
-**ML:** PyTorch · TensorFlow/Keras · scikit-learn · autoencoders · Monte Carlo · multi-armed bandits
-
-**Backend:** FastAPI · Akka · gRPC · asyncpg · microservices
-
-**Data:** PostgreSQL · DynamoDB · MongoDB · HBase · Kafka · BigQuery · Polars · DuckDB · Qdrant
-
-**Cloud / Infra:** GCP · AWS · Docker · Kubernetes · Terraform
-
 ### Get in touch
 
 📍 San Francisco Bay Area
