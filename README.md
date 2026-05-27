@@ -1,4 +1,4 @@
-Applied AI engineer with 20+ years of end-to-end ownership across agentic systems, ML, and distributed data infrastructures.
+Applied AI engineer with extensive experience of end-to-end ownership across agentic systems, ML, and distributed data infrastructures.
 
 Daily practitioner of agentic engineering: Claude Code as the development backbone, Subagents and Agent Teams for parallelized work, Agents & Skills for scale/efficiency/accuracy, MCP servers to give agents real access to real systems, and RAG pipelines to put users in the drivers seat.
 
