@@ -1,4 +1,4 @@
-### *<In process of migrating from Bitbucket to GitHub>*
+### *In process of migrating from Bitbucket to GitHub*
 
 Applied AI engineer with extensive experience of end-to-end ownership across agentic systems, ML, and distributed data infrastructures.
 
