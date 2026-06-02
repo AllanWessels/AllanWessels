@@ -1,7 +1,5 @@
 ### *-In process of migrating from Bitbucket to GitHub*
 
-Applied AI engineer with extensive experience of end-to-end ownership across agentic systems, ML, and distributed data infrastructures.
-
 Daily practitioner of agentic engineering: Claude Code as the development backbone, Subagents and Agent Teams for parallelized work, Agents & Skills for scale/efficiency/accuracy, MCP servers to give agents real access to real systems, and RAG pipelines to put users in the drivers seat.
 
 ### What I'm building lately
@@ -15,12 +13,6 @@ Daily practitioner of agentic engineering: Claude Code as the development backbo
 🛩️ **[anomaly-detection](https://github.com/AllanWessels/anomaly-detection)** — Unsupervised flight-data anomaly detection. 1D convolutional autoencoder in PyTorch with per-channel z-scored residuals for *explainable* scoring — you see not just *that* a flight was anomalous but *which sensors* drove it. FastAPI upload UI, scores in under a second on CPU.
 
 🎰 **[MAB](https://github.com/AllanWessels/MAB)** — Multi-armed bandit service in Go + gRPC + DynamoDB. UCB, ε-greedy, and ε-decay over a single Pull RPC, with per-experiment state isolation. The kind of adaptive A/B/n routing primitive most product teams end up needing.
-
-### Background
-
-Currently an independent consultant, embedded across AI/ML, data engineering, fullstack, and industrial control for clients in trading, aerospace, sports analytics, and manufacturing. Operate as the entire engineering function across multiple parallel engagements — discovery, architecture, build, ship, adoption, DevOps.
-
-Earlier: Senior Manager of Technical Product Marketing & Partner Development at **Greenplum** (acquired by EMC) · Technical Product Manager at **Tellme Networks** (acquired by Microsoft) · Engagement Manager at **Amazon** · Lead PM / Technical Evangelist and Engineering Manager at **Microsoft**.
 
 ### Get in touch
 
