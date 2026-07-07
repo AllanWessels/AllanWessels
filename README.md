@@ -19,6 +19,5 @@
 
 📍 San Francisco Bay Area
 ✉️ j.allan.wessels@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/allan-wessels-a1b147406/)
 
-Open to substantive conversations about hard AI/ML problems where someone has to own the work end-to-end.
+
