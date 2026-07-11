@@ -11,10 +11,6 @@
 
 🔌 **[NBA-MCP](https://github.com/AllanWessels/NBA-MCP)** — Production-style MCP server exposing ~28k NBA player-game rows to Claude Desktop, Cursor, and any MCP-compatible client. Python + FastMCP + asyncpg over Postgres, dual stdio and Streamable-HTTP transports. Demonstrates the "vending a database to AI agents safely" pattern: no `execute_sql`, every tool a specific parameterized intent.
 
-🛩️ **[anomaly-detection](https://github.com/AllanWessels/anomaly-detection)** — Unsupervised flight-data anomaly detection. 1D convolutional autoencoder in PyTorch with per-channel z-scored residuals for *explainable* scoring — you see not just *that* a flight was anomalous but *which sensors* drove it. FastAPI upload UI, scores in under a second on CPU.
-
-🎰 **[MAB](https://github.com/AllanWessels/MAB)** — Multi-armed bandit service in Go + gRPC + DynamoDB. UCB, ε-greedy, and ε-decay over a single Pull RPC, with per-experiment state isolation. The kind of adaptive A/B/n routing primitive most product teams end up needing.
-
 ### Get in touch
 
 📍 San Francisco Bay Area
